@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TechErikaPrado
 - 👀 I’m interested in contratar os melhor Devs, para integrar o time da Brainweb e da Stoom
 - 🌱 I’m currently learning viver neste mundo de pandemia.
-  - 📫 How to reach me no Linkedin: Erika Prado:  ou no e-mail: erika.prado@brainweb.com.brhttps://www.linkedin.com/in/erika-prado-52
-  924855/   
+  - 📫 How to reach me no Linkedin: Erika Prado:  ou no e-mail: erika.prado@brainweb.com.br // https://www.linkedin.com/in/erika-prado-52924855/   
 - Nossa vaga: Desenvolvedor JAVA SR:
 - O que precisar ter- 
 - Ser apaixonado por desenvolvimento de software
@@ -22,3 +21,5 @@ O que você irá entregar:
 - Ter vontade de aprender coisas novas todos os dias
 - Implementar novas funcionalidades
 - Participar de definições de arquitetura visando inovação e melhorias para acompanhar o crescimento da empresa e seus projetos
+
+PJ ou CLT, com beneficios. 
